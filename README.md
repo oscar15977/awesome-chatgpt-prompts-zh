@@ -14,27 +14,22 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
+<img src="" width="400"/> 
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
+[点击这里](https://github.com/oscar15977/chatgpt-question/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://fk.fq.mk**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 ------
 
-## 基于GPT3.5 和 4.0 的国内中文版智造喵
+## 基于GPT3.5 和 4.0 的国内中文版沃柑盒子
 
-智造喵  https://chat.plexpt.com
+沃柑盒子 https://
 
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
+![image]()
 
 
 ## 图片实例
@@ -43,22 +38,20 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 问题表
 
-[问题表](https://github.com/PlexPt/chatgpt-corpus)
+[问题表](https://github.com/oscar15977/chatgpt-corpus)
 
 共约67万个问题，欢迎拿去炼丹。
 
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
 
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
+
+[讨论反馈](https://github.com/oscar15977/chatgpt-question/issues/74)
 
 
 
 
 ## 解除封印咒语
 
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
+#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里
 
 #### [更多猫娘玩法点这个](./cat.md)
 
@@ -111,15 +104,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 
 
-## 加入星球
 
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情, **三天无理由退款**
-
- 
-
-| 知识星球        |  
-| :----------: |  
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | 
 
 
 
@@ -725,7 +710,7 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=oscar15977/chatgpt-question&type=Date)](https://star-history.com/#oscar15977/chatgpt-question&Date)
 
 ## 感谢
 
