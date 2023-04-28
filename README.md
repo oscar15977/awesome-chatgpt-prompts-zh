@@ -18,7 +18,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
-[点击这里](https://github.com/oscar15977/chatgpt-question/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
+[点击这里](https://github.com/oscar15977/ChatGPT-question-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
@@ -38,13 +38,13 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 问题表
 
-[问题表](https://github.com/PlexPt/chatgpt-corpus)
+[问题表](https://github.com/oscar15977/chatgpt-corpus)
 
 共约67万个问题，欢迎拿去炼丹。
 
 
 
-[讨论反馈](https://github.com/oscar15977/chatgpt-question/issues/74)
+[讨论反馈](https://github.com/oscar15977/ChatGPT-question-prompts-zh/issues)
 
 
 
