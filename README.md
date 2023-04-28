@@ -38,7 +38,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 问题表
 
-[问题表](https://github.com/oscar15977/chatgpt-corpus)
+[问题表](https://github.com/PlexPt/chatgpt-corpus)
 
 共约67万个问题，欢迎拿去炼丹。
 
