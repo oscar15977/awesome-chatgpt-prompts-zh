@@ -28,8 +28,9 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 ## 基于GPT3.5 的国内中文版沃柑盒子
 
 沃柑盒子 https://wgkj.wg-ai.com/wgpc/
+| <img src="https://user-images.githubusercontent.com/129292202/236131523-a00166a5-60df-4f7e-b1ca-604403fce12a.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/129292202/236131541-dcbaffeb-d536-47ed-867d-9b53b260798c.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/129292202/236131559-96ff03db-ac63-44a1-a610-458569fac2b5.jpg"/> |
 
-<img src="https://user-images.githubusercontent.com/129292202/236126566-e01ec0eb-ecdc-4536-bf43-d122347b1c95.jpg "width="500"/> 
+
 
 ## 图片实例
 
@@ -93,7 +94,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
 
-项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
+项目合作洽谈请联系微信`ddhh9989`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
 |                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
