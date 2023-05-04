@@ -98,7 +98,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 |                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/129292202/236126568-8f59ea9e-07ba-4002-a6f9-e58205adc9ad.jpg"/> |
+| <img src="https://user-images.githubusercontent.com/129292202/236127156-34e968f2-4e1d-4f6b-b93d-456a17911227.png" width="300"/> | <img src="https://user-images.githubusercontent.com/129292202/236127622-de5fd35c-9175-4ef9-8ffa-456dcc2e5b9d.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/129292202/236126568-8f59ea9e-07ba-4002-a6f9-e58205adc9ad.jpg"/> |
 
  
 
