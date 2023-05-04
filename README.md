@@ -14,7 +14,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/129292202/236126566-e01ec0eb-ecdc-4536-bf43-d122347b1c95.jpg" width="400"/> 
+<img src="https://user-images.githubusercontent.com/129292202/236126566-e01ec0eb-ecdc-4536-bf43-d122347b1c95.jpg "width="400"/> 
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
