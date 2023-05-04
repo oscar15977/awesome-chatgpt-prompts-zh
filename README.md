@@ -14,7 +14,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/oscar15977/awesome-chatgpt-prompts-zh/main/pic/wg1.jpg" width="400"/> 
+<img src="https://user-images.githubusercontent.com/129292202/236126566-e01ec0eb-ecdc-4536-bf43-d122347b1c95.jpg" width="400"/> 
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
@@ -98,7 +98,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 |                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://github.com/oscar15977/awesome-chatgpt-prompts-zh/blob/main/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.jpg"/> |
+| <img src="" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/129292202/236126568-8f59ea9e-07ba-4002-a6f9-e58205adc9ad.jpg"/> |
 
  
 
