@@ -29,7 +29,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 沃柑盒子 https://wgkj.wg-ai.com/wgpc/
 
-![image]()
+![image](https://github.com/oscar15977/awesome-chatgpt-prompts-zh/blob/main/%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.jpg)
 
 
 ## 图片实例
